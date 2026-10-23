@@ -27,31 +27,31 @@
     @keyframes cl23 { 0%,58% { opacity: 0 } 60%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
     @keyframes cl24 { 0%,60% { opacity: 0 } 62%,90% { opacity: 1 } 96%,100% { opacity: 0 } }
     @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
-    .cl0 { animation: cl0 12s ease-in-out infinite }
-    .cl1 { animation: cl1 12s ease-in-out infinite }
-    .cl2 { animation: cl2 12s ease-in-out infinite }
-    .cl3 { animation: cl3 12s ease-in-out infinite }
-    .cl4 { animation: cl4 12s ease-in-out infinite }
-    .cl5 { animation: cl5 12s ease-in-out infinite }
-    .cl6 { animation: cl6 12s ease-in-out infinite }
-    .cl7 { animation: cl7 12s ease-in-out infinite }
-    .cl8 { animation: cl8 12s ease-in-out infinite }
-    .cl9 { animation: cl9 12s ease-in-out infinite }
-    .cl10 { animation: cl10 12s ease-in-out infinite }
-    .cl11 { animation: cl11 12s ease-in-out infinite }
-    .cl12 { animation: cl12 12s ease-in-out infinite }
-    .cl13 { animation: cl13 12s ease-in-out infinite }
-    .cl14 { animation: cl14 12s ease-in-out infinite }
-    .cl15 { animation: cl15 12s ease-in-out infinite }
-    .cl16 { animation: cl16 12s ease-in-out infinite }
-    .cl17 { animation: cl17 12s ease-in-out infinite }
-    .cl18 { animation: cl18 12s ease-in-out infinite }
-    .cl19 { animation: cl19 12s ease-in-out infinite }
-    .cl20 { animation: cl20 12s ease-in-out infinite }
-    .cl21 { animation: cl21 12s ease-in-out infinite }
-    .cl22 { animation: cl22 12s ease-in-out infinite }
-    .cl23 { animation: cl23 12s ease-in-out infinite }
-    .cl24 { animation: cl24 12s ease-in-out infinite }
+    .cl0 { animation: cl0 30s ease-in-out infinite }
+    .cl1 { animation: cl1 30s ease-in-out infinite }
+    .cl2 { animation: cl2 30s ease-in-out infinite }
+    .cl3 { animation: cl3 30s ease-in-out infinite }
+    .cl4 { animation: cl4 30s ease-in-out infinite }
+    .cl5 { animation: cl5 30s ease-in-out infinite }
+    .cl6 { animation: cl6 30s ease-in-out infinite }
+    .cl7 { animation: cl7 30s ease-in-out infinite }
+    .cl8 { animation: cl8 30s ease-in-out infinite }
+    .cl9 { animation: cl9 30s ease-in-out infinite }
+    .cl10 { animation: cl10 30s ease-in-out infinite }
+    .cl11 { animation: cl11 30s ease-in-out infinite }
+    .cl12 { animation: cl12 30s ease-in-out infinite }
+    .cl13 { animation: cl13 30s ease-in-out infinite }
+    .cl14 { animation: cl14 30s ease-in-out infinite }
+    .cl15 { animation: cl15 30s ease-in-out infinite }
+    .cl16 { animation: cl16 30s ease-in-out infinite }
+    .cl17 { animation: cl17 30s ease-in-out infinite }
+    .cl18 { animation: cl18 30s ease-in-out infinite }
+    .cl19 { animation: cl19 30s ease-in-out infinite }
+    .cl20 { animation: cl20 30s ease-in-out infinite }
+    .cl21 { animation: cl21 30s ease-in-out infinite }
+    .cl22 { animation: cl22 30s ease-in-out infinite }
+    .cl23 { animation: cl23 30s ease-in-out infinite }
+    .cl24 { animation: cl24 30s ease-in-out infinite }
   </style>
   <rect width="100%" height="100%" fill="#1e1e1e" rx="14" ry="14"/>
 

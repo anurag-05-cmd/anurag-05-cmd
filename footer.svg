@@ -7,11 +7,11 @@
     @keyframes cl3 { 0%,18% { opacity: 0 } 21%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
     @keyframes cl4 { 0%,24% { opacity: 0 } 27%,88% { opacity: 1 } 95%,100% { opacity: 0 } }
     @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
-    .cl0 { animation: cl0 12s ease-in-out infinite }
-    .cl1 { animation: cl1 12s ease-in-out infinite }
-    .cl2 { animation: cl2 12s ease-in-out infinite }
-    .cl3 { animation: cl3 12s ease-in-out infinite }
-    .cl4 { animation: cl4 12s ease-in-out infinite }
+    .cl0 { animation: cl0 30s ease-in-out infinite }
+    .cl1 { animation: cl1 30s ease-in-out infinite }
+    .cl2 { animation: cl2 30s ease-in-out infinite }
+    .cl3 { animation: cl3 30s ease-in-out infinite }
+    .cl4 { animation: cl4 30s ease-in-out infinite }
   </style>
   <rect width="100%" height="100%" fill="#1e1e1e" rx="14" ry="14"/>
 
