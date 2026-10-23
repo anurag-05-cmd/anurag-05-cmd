@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://ryme.md/api/render/code-github-stats?u=anurag-05-cmd&bg=1e1e1e&fg=d4d4d4&accent=57d6ce&muted=8595a8" width="100%" alt="Code GitHub">
+<img src="https://ryme.md/api/render/code-github-stats?u=anurag-05-cmd&bg=1e1e1e&fg=d4d4d4&accent=57d6ce&muted=8595a8&dur=30" width="100%" alt="Code GitHub">
 
 <br/>
 
