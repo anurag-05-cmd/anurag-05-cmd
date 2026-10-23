@@ -1,46 +1,17 @@
-# anurag-05-cmd
+<img src="https://raw.githubusercontent.com/anurag-05-cmd/anurag-05-cmd/main/header.svg" width="100%" alt="Code Editor">
 
-Hi, I'm **anurag-05-cmd**.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd hero section" />
-  </picture>
-</p>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd about section" />
-  </picture>
-</p>
+<img src="https://raw.githubusercontent.com/anurag-05-cmd/anurag-05-cmd/main/about.svg" width="100%" alt="Code Markdown">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd stack section" />
-  </picture>
-</p>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd stats section" />
-  </picture>
-</p>
+<img src="https://raw.githubusercontent.com/anurag-05-cmd/anurag-05-cmd/main/skills.svg" width="100%" alt="Code Stack">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd projects section" />
-  </picture>
-</p>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=anurag-05-cmd&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=anurag-05-cmd&theme=github-dark" alt="anurag-05-cmd social section" />
-  </picture>
-</p>
+<img src="https://ryme.md/api/render/code-github-stats?u=anurag-05-cmd&bg=1e1e1e&fg=d4d4d4&accent=57d6ce&muted=8595a8" width="100%" alt="Code GitHub">
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
+<br/>
+
+<img src="https://raw.githubusercontent.com/anurag-05-cmd/anurag-05-cmd/main/footer.svg" width="100%" alt="Code Status Bar">
